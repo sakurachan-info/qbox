@@ -19,7 +19,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-custom_css = ["/css/custom.css"]
+custom_css = ["css/custom.css"]
 text_color = ""
 favicon = ""
 site_logo = ""
