@@ -1,0 +1,48 @@
+.custom--title {
+  line-height: 1.5;
+}
+
+.custom--postCommon {
+  padding: 0.5em;
+}
+
+.custom--postCommon_wrapper {
+  padding: 0.5em;
+}
+
+.custom--postCommon_button-share {
+  padding: 0.4em;
+  display: block;
+  text-decoration: none;
+  width: 90%;
+  border: 1px solid #55acee;
+  border-radius: 0.4em;
+  background-color: #fff;
+  color: #55acee;
+  text-align: center;
+}
+
+.custom--postCommon_button-moreAnswers {
+  padding: 0.4em;
+  display: block;
+  text-decoration: none;
+  width: 90%;
+  border: 1px solid #5ebaba;
+  border-radius: 0.4em;
+  background-color: #fff;
+  color: #55acee;
+  text-align: center;
+}
+
+a.custom--postCommon_button-ask {
+  padding: 0.4em;
+  display: block;
+  text-decoration: none;
+  width: 90%;
+  border: 1px solid #55acee;
+  border-radius: 0.4em;
+  background-color: #55acee;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}

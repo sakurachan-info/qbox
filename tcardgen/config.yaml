@@ -1,0 +1,40 @@
+template: tcardgen/qtemplate.png
+title:
+  start:
+    px: 50
+    py: 50
+  fgHexColor: "#000000"
+  fontSize: 24
+  fontStyle: Regular
+  maxWidth: 520
+  lineSpacing: 10
+category:
+  start:
+    px: 800
+    py: 800
+  fgHexColor: "#E5B52A"
+  fontSize: 16
+  fontStyle: Regular
+info:
+  start:
+    px: 800
+    py: 800
+  fgHexColor: "#A0A0A0"
+  fontSize: 38
+  fontStyle: Regular
+  separator: " - "
+tags:
+  start:
+    px: 800
+    py: 800
+  fgHexColor: "#FFFFFF"
+  bgHexColor: "#7F7776"
+  fontSize: 16
+  fontStyle: Medium
+  boxAlign: Left
+  boxSpacing: 6
+  boxPadding:
+    top: 6
+    right: 10
+    bottom: 6
+    left: 8
