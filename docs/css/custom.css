@@ -46,3 +46,21 @@ a.custom--postCommon_button-ask {
   font-weight: bold;
   text-align: center;
 }
+
+.custom--index_wrapper {
+  text-align: center;
+}
+
+a.custom--index_button-ask {
+  padding: 0.4em;
+  display: inline-block;
+  text-decoration: none;
+  width: 90%;
+  max-width: 30em;
+  border: 1px solid #55acee;
+  border-radius: 0.4em;
+  background-color: #55acee;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
